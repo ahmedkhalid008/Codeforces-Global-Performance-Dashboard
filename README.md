@@ -40,10 +40,12 @@ Codeforces Global Performance Analysis (2010–2025)
 This repository contains a deep-dive analysis of competitive programming data, focusing on user behavior, performance metrics, and global growth trends.
 
 📋 Project Overview
+
 Using data spanning from January 2010 to December 2025, this project analyzes the performance and social behavior of 5,007 users on the Codeforces platform.
 +1
 
 📊 Key Performance Metrics
+
 Total User Base: 5,007.
 Average User Rating: 1.93K.
 Average Contribution Score: 4.71.
